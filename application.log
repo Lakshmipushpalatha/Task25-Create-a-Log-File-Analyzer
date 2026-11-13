@@ -1,0 +1,9 @@
+2026-11-13 09:00:00 INFO Application started
+2026-11-13 09:05:00 INFO User logged in
+2026-11-13 09:10:00 WARNING Low memory
+2026-11-13 09:15:00 ERROR Database connection failed
+2026-11-13 09:20:00 INFO File uploaded
+2026-11-13 09:25:00 ERROR File not found
+2026-11-13 09:30:00 WARNING High CPU usage
+2026-11-13 09:35:00 INFO Application running
+Invalid log entry
